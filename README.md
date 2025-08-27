@@ -5,7 +5,7 @@ Users can **open, view, and withdraw FD accounts** through a menu-driven interfa
 
 ---
 
-## 📌 Project Purpose :
+## Project Purpose :
 - Demonstrates **Java OOP concepts** (classes, interfaces, encapsulation).  
 - Implements **custom exceptions** for error handling (InvalidAmountException, AccountNotFoundException, PrematureWithdrawalException).  
 - Simulates **real-world banking operations** in a simplified way.  
